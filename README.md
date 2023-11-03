@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aselebe
-- 👀 I’m interested in learning Python, R and SQL languages
-- 🌱 I’m currently learning ...Python
+- 👀 I’m intermediate in Python, R and SQL languages
+- 🌱 I’m pro
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +2347482113212
 
