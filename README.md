@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aselebe
-- 👀 I’m intermediate in Python, R and SQL languages
+- 👀 Data Scientist using  Python, R and SQL languages
 - 🌱 I’m pro
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me +2347482113212
 
 <!---
